@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Registration Apps</string>
+    <string name="daftarkan_diri_anda_sekarang">Daftarkan Diri\nAnda Sekarang!</string>
+    <string name="masukkan_nama_anda">Masukkan nama anda</string>
+    <string name="masukkan_alamat_anda">Masukkan alamat anda</string>
+    <string name="masukkan_nomor_anda">Masukkan nomor anda</string>
+
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki Laki</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="lokasi_pendaftaran">Lokasi Pendaftaran</string>
+    <string name="lokasi_anda">Lokasi Anda</string>
+    <string name="cek_lokasi">Cek Lokasi</string>
+    <string name="aploud_foto">Aploud Foto</string>
+    <string name="foto">Foto</string>
+    <string name="submit">Submit</string>
+    <string name="hasil_pendaftaran">Hasil Pendaftaran</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_hp">No. HP</string>
+    <string name="daftar_mahasiswa">Daftar Mahasiswa Baru</string>
+    <string name="add">Add</string>
+    <string name="pendaftaran">Pendaftaran</string>
+    <string name="delete">Hapus</string>
+    <string name="error_no_hardware">Aplikasi Membutuhkan FingerPrint</string>
+    <string name="error_hw_unavailable">Finger Print Tidak Bekerja</string>
+    <string name="error_none_enrolled">Tidak Ada Sidik Jari yang Terdaftar</string>
+    <string name="success">Otentikasi Berhasil</string>
+    <string name="title_biometric_prompt">Beny Project</string>
+    <string name="description_biometric_prompt">Gunakan Sidik Jari Untuk Masuk</string>
+    <string name="data_registrasi_tidak_ditemukan">Data Registrasi Tidak Ditemukan</string>
+    <string name="location">Go to View Navigation</string>
+    <string name="edit_data">Edit Data</string>
+    <string name="cek_jarak_lokasi">Cek Jarak Lokasi</string>
+    <string name="lihat_lokasi">Lihat Lokasi</string>
+</resources>
