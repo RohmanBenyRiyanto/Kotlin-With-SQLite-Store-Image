@@ -1,1 +1,1 @@
-"# Kotlin-With-SQLite-Store-Image" 
+# Kotlin-With-SQLite-Store-Image
